@@ -1,0 +1,28 @@
+.wrapper{
+    margin: 5px;
+}
+
+/* 3 */
+h1{
+    text-align: center;
+}
+
+/*this sets the background color of the entire body*/
+body{
+    background-image:url("../3-assets/gray-background.jpg");
+}
+
+/* 4 */
+.background1{
+    background-image:linear-gradient(yellow,rgb(206, 31, 8)) ;
+}
+
+/* 5 */
+.background2{
+    background-image:url("../3-assets/feathers-background.png") ;
+}
+
+/* 7 */
+table, th, td{
+    border: 1px solid black;
+}
